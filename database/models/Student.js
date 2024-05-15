@@ -27,10 +27,7 @@ const Student = db.define("student", {
   },
 
   imageUrl: {
-    type: Sequelize.STRING,
-    validate: {
-      isUrl: true
-    },
+    type: Sequelize.STRING(2048),
     defaultValue: 'https://static.vecteezy.com/system/resources/thumbnails/001/840/618/small/picture-profile-icon-male-icon-human-or-people-sign-and-symbol-free-vector.jpg'
   },
 
