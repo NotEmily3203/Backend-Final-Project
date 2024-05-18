@@ -5,4 +5,4 @@
 - Max Koltovskiy
 - Patrick Lin
 
-[[Frontend Repo](https://github.com/NotEmily3203/Frontend-Final-Project)]
+[Frontend Repo](https://github.com/NotEmily3203/Frontend-Final-Project)
